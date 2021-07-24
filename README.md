@@ -2,8 +2,7 @@
 
 ### Projeto desenvolvido para o curso de *Flexbox: Posicione elementos na tela* do instrutor Yuri Padilha (Alura).
 
-
-&nbsp;
+### 📚  Descrição
 
 Objetivos do curso:
 
@@ -16,12 +15,27 @@ Objetivos do curso:
 - Elaborar um site responsivo com flexbox.
 
 
+### 🖥️  Instalações
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
+### ⚒️  Tecnologias
+
+As ferramentas utilizadas no projeto foram:
+
+- HTML;
+- CSS.
+
 &nbsp;
 
-Clique na imagem para visualizar o site:
-
-
-&nbsp;
+##### Clique na imagem para visualizar a página:
 
 [<img src="img/site.png" alt="Início da página do site" width=80% />](https://flexbox.claudinha.repl.co/)
+
+&nbsp;
+
+
+<a href="https://www.linkedin.com/in/claudia-nogueira-dos-anjos-b71726215/" target="_blank">
+        <img src="https://img.shields.io/badge/claudiaanjos-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/claudia-nogueira-dos-anjos-093407180/">
+</a>
 
