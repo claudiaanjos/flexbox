@@ -21,10 +21,8 @@ Objetivos do curso:
 
 ### ⚒️  Tecnologias
 
-As ferramentas utilizadas no projeto foram:
-
-- HTML;
-- CSS.
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 &nbsp;
 
